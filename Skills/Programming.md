@@ -1,47 +1,47 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value: 👂 heard
-  - identifier: 👂 heard
-  - variable: 👂 heard
-  - constant: 👂 heard
-  - scalar
-  - literal
-  - expression
+  - value: 🎓 known
+  - identifier: 🖐️ used
+  - variable: 🖐️ used
+  - constant: 🖐️ used
+  - scalar: 👂 heard
+  - literal: 👂 heard
+  - expression: 🎓 known
   - heap
-  - function: 👂 heard
-  - procedure
-  - method
-  - class
+  - function: 🖐️ used
+  - procedure: 👂 heard
+  - method: 👂 heard
+  - class: 🖐️ used
   - prototype
   - event
-  - type
-  - primitive types
-  - reference types
+  - type: 🎓 known
+  - primitive types: 🎓 known
+  - reference types: 🎓 known
   - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops: 👂 heard
-  - assignment
+  - lexical scope: 👂 heard
+  - code block: 🎓 known
+  - conditions: 🎓 known
+  - loops: 🎓 known
+  - assignment: 🎓 known
   - regular expression
   - interface
   - contract
   - module
   - call stack
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
+  - signature: 👂 heard
+  - argument: 🎓 known
+  - parameter: 🎓 known
+  - pure function: 👂 heard
+  - lambda expression: 🖐️ used
   - side effects
-  - closure
+  - closure: 👂 heard
   - partial application
   - curry
-  - higher order
-  - recursion
-  - callback
+  - higher order: 👂 heard
+  - recursion: 👂 heard
+  - callback: 👂 heard
   - listener
   - compose
   - pipe
@@ -53,16 +53,16 @@
   - generator
   - coroutine
 - Data structures
-  - array
-  - structure
+  - array: 🖐️ used
+  - structure: 👂 heard
   - record
   - enum
   - instance
-  - object: 👂 heard
-  - class
-  - collection
+  - object: 🖐️ used
+  - class: 🖐️ used
+  - collection: 👂 heard
   - set
-  - hash table
+  - hash table: 👂 heard
   - linked list
   - doubly list
   - unrolled list
@@ -70,9 +70,9 @@
   - queue
   - stack
   - deque
-  - tree
+  - tree: 👂 heard
   - graph
-  - iterator
+  - iterator: 👂 heard
   - mutable state
   - immutable state
   - serialization
@@ -82,17 +82,17 @@
   - transpiler
   - linter
   - polyfill
-  - debugger
+  - debugger: 👂 heard
   - garbage collection
-  - refactoring
-  - code review
+  - refactoring: 👂 heard
+  - code review: 👂 heard
   - antipatterns
-  - paradigm
+  - paradigm: 👂 heard
   - algorithm: 👂 heard
   - magic numbers
   - hardcode
-  - complexity
-  - decomposition
+  - complexity: 👂 heard
+  - decomposition: 👂 heard
   - spaghetti
   - silver bullet
   - not invented here
@@ -102,5 +102,5 @@
   - exception
   - return early
   - unittest
-  - git
-  - github
+  - git: 👂 heard
+  - github: 👂 heard
