@@ -1,7 +1,7 @@
 ## JavaScript
 
 - Language
-  - Object
+  - Object: 👂 heard
   - this
   - arrow function
   - async function
@@ -41,10 +41,10 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
+  - if: 👂 heard
+  - while: 👂 heard
+  - do..while: 👂 heard
+  - for: 👂 heard
   - for..in
   - for..of
   - for await
@@ -60,8 +60,8 @@
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
+  - function declaration: 👂 heard
+  - function expression: 👂 heard
   - return
   - default parameters
   - functional object
