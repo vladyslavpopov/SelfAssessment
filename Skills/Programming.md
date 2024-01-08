@@ -1,15 +1,15 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
+  - value: 👂 heard
+  - identifier: 👂 heard
+  - variable: 👂 heard
+  - constant: 👂 heard
   - scalar
   - literal
   - expression
   - heap
-  - function
+  - function: 👂 heard
   - procedure
   - method
   - class
@@ -22,7 +22,7 @@
   - lexical scope
   - code block
   - conditions
-  - loops
+  - loops: 👂 heard
   - assignment
   - regular expression
   - interface
@@ -58,7 +58,7 @@
   - record
   - enum
   - instance
-  - object
+  - object: 👂 heard
   - class
   - collection
   - set
@@ -78,7 +78,7 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler: 👂 heard
   - transpiler
   - linter
   - polyfill
@@ -88,7 +88,7 @@
   - code review
   - antipatterns
   - paradigm
-  - algorithm
+  - algorithm: 👂 heard
   - magic numbers
   - hardcode
   - complexity
