@@ -1,20 +1,20 @@
 ## JavaScript
 
 - Language
-  - Object: 👂 heard
-  - this
-  - arrow function
+  - Object: 🖐️ used
+  - this: 👂 heard
+  - arrow function: 🖐️ used
   - async function
-  - call
+  - call: 👂 heard
   - bind
   - apply
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof: 🖐️ used
   - destructuring
   - generator
-  - iterator
+  - iterator: 👂 heard
   - async generator
   - async iterator
   - chaining
@@ -26,64 +26,64 @@
   - getters and setters
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
+  - equality operators: 🖐️ used
+  - logical operators: 🖐️ used
+  - bitwise operators: 🎓 known
+  - ternary operator: 🎓 known
+  - void: 👂 heard
   - yield
   - await
   - template literal
-  - strict mode
+  - strict mode: 👂 heard
   - delete
-  - in
+  - in: 👂 heard
   - super
-  - Symbol
+  - Symbol: 🖐️ used
   - Reflect
 - Statements
-  - if: 👂 heard
-  - while: 👂 heard
-  - do..while: 👂 heard
-  - for: 👂 heard
-  - for..in
-  - for..of
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
+  - for..in: 🎓 known
+  - for..of: 🎓 known
   - for await
-  - throw
-  - break
-  - continue
+  - throw: 👂 heard
+  - break: 🎓 known
+  - continue: 🎓 known
   - import
   - export
   - label
-  - try..catch
-  - switch
-  - class
-  - new Error
+  - try..catch: 👂 heard
+  - switch: 🎓 known
+  - class: 🖐️ used
+  - new Error: 👂 heard
   - with
 - Functions
-  - function declaration: 👂 heard
-  - function expression: 👂 heard
-  - return
-  - default parameters
-  - functional object
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
+  - return: 🖐️ used
+  - default parameters: 🎓 known
+  - functional object: 👂 heard
 - Data structures
-  - Array
+  - Array: 🖐️ used
   - mixin
   - extend
   - typed arrays
   - Map
   - Set
-  - undefined
-  - null
+  - undefined: 🎓 known
+  - null: 🎓 known
   - Proxy
   - weak collections
   - timers
   - EventEmitter
   - RegExp
   - Date
-  - BigInt
+  - BigInt: 👂 heard
 - Infrastructure
   - V8
-  - Node.js
-  - npm
+  - Node.js: 👂 heard
+  - npm: 👂 heard
   - prettier
   - MDN
